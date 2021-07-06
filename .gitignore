@@ -1,0 +1,6 @@
+
+weatherapi/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+*.cs
+weatherapi/obj/Debug/net5.0/weatherapi.AssemblyInfoInputs.cache
+weatherapi/obj/Debug/net5.0/weatherapi.assets.cache
+weatherapi/obj/Debug/net5.0/weatherapi.GeneratedMSBuildEditorConfig.editorconfig
